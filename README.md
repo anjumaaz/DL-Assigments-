@@ -1,1 +1,1 @@
-Carprice and Credit card dataset removed becused of the size issue in GitHub Repo.
+Credit card dataset not present in the repo becuse of the size issue in GitHub Repo.
